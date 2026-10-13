@@ -11,7 +11,7 @@ Lệnh in toàn bộ nội dung file logs\server.log là Get-content logs\server
 
 3: Lệnh PowerShell duy nhất để tìm tất cả file đuôi .log trong toàn bộ projec là Get-ChildItem *.log
 
-## Phần 2: Lọc dữ liệu và Pipe:
+## Phần 2: Lọc dữ liệu và Pipe: 
 4: lệnh PowerShell lọc ra các dòng chứa chữ ERROR là Select-String logs\server.log -Pattern "ERROR"
 
 5:
