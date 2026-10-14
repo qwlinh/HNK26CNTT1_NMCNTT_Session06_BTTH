@@ -55,6 +55,7 @@ Write-Output "Hoan tat tao bao cao!"
  -  Câu lệnh để kiểm tra file daily_report.txt đã được tạo đúng nội dung là: Get-Content reports\daily_report.txt
 
 12: Đọc đoạn script AI ở mục 3d, áp dụng **3 Nguyên tắc Vàng thẩm định Script AI**:
+
 (a) Dòng lệnh nguy hiểm và giải thích hậu quả là
 
  - Dòng lệnh nguy hiểm: Remove-Item -Recurse -Force C:\*
